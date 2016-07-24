@@ -1,0 +1,1 @@
+bool setreg(TCHAR* name, long double x);
