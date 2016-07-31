@@ -1,3 +1,4 @@
+/* This code is Public Domain. All copyrights are hereby waived. */
 #include <windows.h> 
 #include <tchar.h>
 #include <stdio.h> 

@@ -9,3 +9,6 @@ Some of the code was programmatically generated (in particular combobox). This c
 #Libraries
 Compile with:
 kernel32.lib; user32.lib; advapi32.lib
+
+#Copyright Free
+This code is Public Domain. All copyrights on this work are hereby waived and relinquished.

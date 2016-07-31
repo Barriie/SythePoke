@@ -1,3 +1,4 @@
+/* This code is Public Domain. All copyrights are hereby waived. */
 ﻿#pragma once
 #include <Windows.h>
 #include <stdio.h>
