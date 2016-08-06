@@ -1,4 +1,3 @@
-/* This code is Public Domain. All copyrights are hereby waived. */
 ﻿#pragma once
 #include <Windows.h>
 #include <stdio.h>
@@ -815,7 +814,7 @@ namespace SythePoke {
 
 	latt = 70.9822909;
 	lngt = 25.9702074;
-	swprintf(loc, 1023, L"Honningsvâ€ g, Finnmark, Norway : %g, %g", latt, lngt);
+	swprintf(loc, 1023, L"Honningsvâ€ g, Finnmark, Norway : %g, %g", latt, lngt);
 	this->comboBox1->Items->Add( gcnew String(loc));
 
 	latt = 21.3069444;
@@ -1145,7 +1144,7 @@ namespace SythePoke {
 
 	latt = 20.9673702;
 	lngt = -89.5925857;
-	swprintf(loc, 1023, L"Mâ€šrida, YucatÂ n, Mexico : %g, %g", latt, lngt);
+	swprintf(loc, 1023, L"Mâ€šrida, YucatÂ n, Mexico : %g, %g", latt, lngt);
 	this->comboBox1->Items->Add( gcnew String(loc));
 
 	latt = 36.8121041;
@@ -1675,7 +1674,7 @@ namespace SythePoke {
 
 	latt = 7.771357200000001;
 	lngt = -72.22614659999999;
-	swprintf(loc, 1023, L"San CristÂ¢bal, TÂ chira, Venezuela : %g, %g", latt, lngt);
+	swprintf(loc, 1023, L"San CristÂ¢bal, TÂ chira, Venezuela : %g, %g", latt, lngt);
 	this->comboBox1->Items->Add( gcnew String(loc));
 
 	latt = 32.715738;
@@ -1720,7 +1719,7 @@ namespace SythePoke {
 
 	latt = -26.8139041;
 	lngt = -65.17884239999999;
-	swprintf(loc, 1023, L"San Miguel de TucumÂ n, TucumÂ n, Argentina : %g, %g", latt, lngt);
+	swprintf(loc, 1023, L"San Miguel de TucumÂ n, TucumÂ n, Argentina : %g, %g", latt, lngt);
 	this->comboBox1->Items->Add( gcnew String(loc));
 
 	latt = 13.6929403;
@@ -1730,7 +1729,7 @@ namespace SythePoke {
 
 	latt = 43.318334;
 	lngt = -1.9812313;
-	swprintf(loc, 1023, L"San SebastiÂ n, Basque Country, Spain : %g, %g", latt, lngt);
+	swprintf(loc, 1023, L"San SebastiÂ n, Basque Country, Spain : %g, %g", latt, lngt);
 	this->comboBox1->Items->Add( gcnew String(loc));
 
 	latt = 25.5787726;
@@ -1795,7 +1794,7 @@ namespace SythePoke {
 
 	latt = -3.689511199999999;
 	lngt = -40.3485697;
-	swprintf(loc, 1023, L"Sobral, CearÂ , Brazil : %g, %g", latt, lngt);
+	swprintf(loc, 1023, L"Sobral, CearÂ , Brazil : %g, %g", latt, lngt);
 	this->comboBox1->Items->Add( gcnew String(loc));
 
 	latt = 43.60280789999999;
